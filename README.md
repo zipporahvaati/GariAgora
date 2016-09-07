@@ -1,3 +1,3 @@
 # GariAgora
-Android application for buying,selling and hiring of new and used vehicles.
+A mobile application for buying,selling and hiring of new and/or used vehicles
 
